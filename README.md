@@ -19,7 +19,7 @@ Data dalam Project ini dapat diakses secara publik melalui tautan berikut.
 <p>
 
 <p align="justify">   
-2. Hal ini menjadi tantangan tersendiri, terutama dalam menangkap <i>insight</i> bagi pihak pengelola hotel. <i>Word Cloud</i>i> hanya menunjukkan frekuensi kata, bukan hubungan antarkata atau sentimen sebenarnya.
+2. Hal ini menjadi tantangan tersendiri, terutama dalam menangkap <i>insight</i> bagi pihak pengelola hotel. <i>Word Cloud</i> hanya menunjukkan frekuensi kata, bukan hubungan antarkata atau sentimen sebenarnya.
 <p>
 
 <p align="justify">
